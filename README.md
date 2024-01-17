@@ -29,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-jakir-hossain&show_icons=true&locale=en" alt="md-jakir-hossain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jakir-hossain&" alt="md-jakir-hossain" /></p>
+<a href="https://app.daily.dev/mdjakirhossain40"><img src="https://api.daily.dev/devcards/1a7bc3ce1c884c4980d72190ccf64a04.png?r=j7i" width="400" alt="Md Jakir Hossain's Dev Card"/></a>
 
