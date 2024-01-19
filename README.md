@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-jakir-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="md-jakir-hossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-jakir-hossain" alt="md-jakir-hossain" /></a> </p>
+<p align="left" margin-left="1rem"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-jakir-hossain" alt="md-jakir-hossain" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
